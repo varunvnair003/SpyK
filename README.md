@@ -36,13 +36,14 @@ BEFORE USING
 2) To install the package, run the command "pip install pynput".
 3) The script is designed to log the key inputs to the "log.txt" file which will be made right after the user runs the program.
 4) It is known that some of the Windows OS doesn't let the script create the log file. If that's the case, try disabling the antivirus.
-5) The script is open source.
+5) The script closes when user presses the ESC key. Any other key presses will be logged in the log.txt file
+6) The script is open source.
 
 ==================================================================================================
 DISCLAIMER
 ==================================================================================================
 
-The information contained in this website is for general information purposes only. The developer will not be held responsible for 
+The information contained in this program is for general information purposes only. The developer will not be held responsible for 
 any illegal use of this program.
 
 
